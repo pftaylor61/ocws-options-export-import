@@ -7,7 +7,7 @@ Plugin URI: http://oldcastleweb.com/pws/plugins
 
 Description: This plugin will add a system for backing up options settings in your theme. The plugin has been produced by <a href="http://www.oldcastleweb.com" target="_blank">Old Castle Web Solutions</a>.<br /><br /> A panel is added, which reads the options settings in the current theme, and enables them to be saved or imported.
 
-Version: 1.0
+Version: 1.1
 Author: Paul Taylor
 Author URI: http://oldcastleweb.com/pws/about
 License: GPL2

@@ -8,6 +8,9 @@ I have to confess that I did very little to create this plugin, but since the co
 ## Credits
 The idea came from the website [Digging Into Wordpress](https://digwp.com/2014/04/backup-restore-theme-options/), and was compiled by Jeff Starr. However, he, in turn, got the idea from the [Gantry Export and Import Options](http://wordpress.org/extend/plugins/gantry-export-import-options/) plugin. According to the plugin details, that plugin uses the code exclusively for his themes' framework. My plugin should work with any theme, that uses an options system. All the themes, with which I have so far tried this plugin, use the [Options Framework](http://wptheming.com/options-framework-theme/).
 
+## Version 1.1
+Just added a routine to put the theme name and version number in the Backup Options UI.
+
 ## Version 1.0
 I edited the code for 2 reasons:
 
